@@ -38,9 +38,9 @@ Revision date 	Version #	Description 	Author
 
 	1. 로그인 2. 과목 등록 3. 과제 일정 등록 
 	4. 시험 일정 등록 5. 수정 및 삭제 
-	6. 우선순위 설정 7. 캘린더 조회 8. 완료처리                   마감 알림 전송
+	6. 우선순위 설정 7. 캘린더 조회 8. 완료처리                 							  마감 알림 전송
 
-student		Personal Assignment and Exam Schedule Management System		Notification 
+student					Personal Assignment and Exam Schedule Management System									Notification 
 
 				    시스템 관리 
 	Administrator	사용자 지원
