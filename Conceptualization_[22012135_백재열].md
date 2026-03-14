@@ -38,13 +38,13 @@ Revision date 	Version #	Description 	Author
 
 	1. 로그인 2. 과목 등록 3. 과제 일정 등록 
 	4. 시험 일정 등록 5. 수정 및 삭제 
-	6. 우선순위 설정 7. 캘린더 조회 8. 완료처리                 							  마감 알림 전송
+	6. 우선순위 설정 7. 캘린더 조회 8. 완료처리                 							  9.마감 알림 전송
 
-1.student					2.Personal Assignment and Exam Schedule Management System									3.Notification 
+1.student(1~8)					2.Personal Assignment and Exam Schedule Management System									3.Notification(9)
 
-				    시스템 관리 
-	4.Administrator	사용자 지원
-				    오류 확인
+				    	    10.시스템 관리 
+	4.Administrator(10~12)	11.사용자 지원
+				    	    12.오류 확인
 
 [그림 1] System Context Diagram
 • 로그인
