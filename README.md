@@ -1,24 +1,16 @@
-# Student Schedule Manager
+# 소프트웨어공학 과제
 
-Java Swing application for managing university assignments and exam schedules.
+## 과제 1: 프로젝트 관리
 
-## Features
-- Sign in with demonstration credentials
-- Manage courses, assignments, and exams
-- View schedules and priorities
-- Mark schedules complete or delete them
-- Save and load data using CSV
+**주제: 소형 온실 자동 제어기 개발**
 
-## Build
-```bash
-javac -encoding UTF-8 -d build/classes src/scheduleapp/*.java
-jar cfe build/PersonalAssignmentScheduleSystem.jar scheduleapp.Main -C build/classes .
-```
+[과제 1 전체 문서 보기](coursework/software-engineering/assignment-01-project-management.md)
 
-## Run
-```bash
-java -jar build/PersonalAssignmentScheduleSystem.jar
-```
+- 대상 제어기 선택
+- 프로젝트 범위 정의
+- 시스템 문맥도 및 이해관계자 분석
+- 제약사항 조사
+- 프로젝트 규모 산정
+- 주요 업무 구분 및 WBS 연계
 
-## Security note
-This is an educational project, not a production authentication system. Any example credentials in source code are for local demonstration only. Do not reuse real passwords.
+작성한 과제 본문을 그대로 보관합니다. 인원·기간·예산·성능 수치는 계획 가정이며, 제출 전 실제 조건과 학번을 확인해야 합니다.
