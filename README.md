@@ -22,3 +22,7 @@
 [Word 보고서](coursework/software-engineering/submission/소프트웨어공학_과제1_프로젝트관리.docx) · [PDF 보고서](coursework/software-engineering/submission/소프트웨어공학_과제1_프로젝트관리.pdf)
 
 문맥도 그림, 표, 조사 출처를 포함한 보고서를 작성하고 전체 페이지를 확인했습니다. 학번·제출일·팀 인원은 입력 또는 확인이 필요하며, 팬·전원·배송비 등의 견적과 실물 시험은 미완료입니다. 수업에서 지정한 제출 양식이 있다면 그 양식에 맞춰야 합니다.
+
+## 작업 운영과 이어가기
+
+[프로젝트별 역할·진행·결정·검증 기준](docs/operations/workflow.md)에 원본과 후보 PR, 실제 다음 작업을 연결했습니다. 지침 적용과 앱 실행·운영 검증은 구분합니다.
